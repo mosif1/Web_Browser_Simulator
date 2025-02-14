@@ -1,5 +1,5 @@
 /*Title: Browser.h
-  Author: Prof. Dixon
+  Author: Mosi Farquharsin
   Date: 11/14/2024
   Description: This class defines information about the browser class
 */
