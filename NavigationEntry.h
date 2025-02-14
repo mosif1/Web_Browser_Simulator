@@ -1,5 +1,5 @@
 /*Title: NavigationEntry.h
-  Author: Prof. Dixon
+  Author: Mosi Farquharson
   Date: 11/14/2024
   Description: This class defines information about visiting a website
 */
