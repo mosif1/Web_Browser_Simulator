@@ -1,5 +1,5 @@
 /*Title: Stack.cpp
-  Author: Prof. Dixon
+  Author: Mosi Farquharson
   Date: 11/14/2024
   Description: This class defines a templated stack using a linked list
 */
